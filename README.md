@@ -51,7 +51,7 @@ The Toggl API has moved to Github so you could actively participate in helping u
 * [rocketbase-io](https://github.com/rocketbase-io) build Toggl-Report-Api, a Java wrapper for the Toggl Report API: https://github.com/rocketbase-io/toggl-report-api
 
 ### Python
-* [Mosab Ahmad](https://github.com/mos3abof) has created a project using Toggl API to calculate how many hours he should work to achieve monthly goals: https://github.com/mos3abof/toggl_target
+* [Mosab Ibrahim](https://github.com/mos3abof) has created a project using Toggl API to calculate how many hours he should work to achieve monthly goals: https://github.com/mos3abof/toggl_target
 * [Mikhail Novikov](https://github.com/kurtgn) has created a graphical utility for displaying historical data: https://github.com/kurtgn/chronicl
 * [Robert Adams](https://github.com/drobertadams) and [Beau Raines](https://github.com/beauraines) have updated [toggl-cli](https://github.com/drobertadams/toggl-cli) to API v8. It provides a set of Python objects for interacting with Toggl, as well as a command-line interface: https://github.com/drobertadams/toggl-cli
 * [Matthew Downey](https://github.com/matthewdowney) has started a Toggl API wrapper: https://github.com/matthewdowney/TogglPy
